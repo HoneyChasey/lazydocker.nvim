@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="minimal-hypr logo" src="https://github.com/HoneyChasey/lazydocker.nvim/blob/main/.github/assets/logo.png" width="120px"/>
+    <img alt="minimal-hypr logo" src="https://github.com/HoneyChasey/lazydocker.nvim/blob/main/.github/assets/logo.webp" width="120px"/>
 </div>
 
 # LazyDocker-neovim-integration

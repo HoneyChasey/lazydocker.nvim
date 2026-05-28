@@ -1,0 +1,1 @@
+-- The files inside plugin/ folder will be executed when Neovim starts --

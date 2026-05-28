@@ -1,3 +1,7 @@
+<div align="center">
+    <img alt="minimal-hypr logo" src="https://github.com/HoneyChasey/lazydocker.nvim/blob/main/.github/assets/logo.png" width="120px"/>
+</div>
+
 # LazyDocker-neovim-integration
 Integration of lazydocker inside neovim, with minimal code.
 

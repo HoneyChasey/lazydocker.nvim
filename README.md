@@ -13,7 +13,6 @@ Integration of lazydocker inside neovim, with minimal code.
 return {
   "HoneyChasey/lazydocker.nvim",
   opts = {},
-  },
 }
 ```
 
